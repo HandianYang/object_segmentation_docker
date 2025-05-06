@@ -1,3 +1,8 @@
+Version 1.0.1 (May 6, 2025)
+----------------------------
+
++ Installed `gdown` for fetching datasets and model weights from Google Drive
+
 Version 1.0.0 (May 5, 2025)
 ----------------------------
 

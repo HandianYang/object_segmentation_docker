@@ -60,8 +60,9 @@ RUN python3 -m pip install --upgrade \
       torchvision \
       torchaudio \
       --index-url https://download.pytorch.org/whl/cu121 && \
-    # object detection
+    # object detection & datasets
     pip install --no-cache-dir \
+      gdown \
       pyrealsense2 \
       supervision && \
     # Detectron2

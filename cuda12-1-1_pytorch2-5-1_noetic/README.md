@@ -39,6 +39,7 @@
   - `python3-rosinstall-generator`
   - `python3-wstool`
 * Dependencies for object segmentation (installed through `pip`)
+  - `gdown`
   - `ninja`
   - `pyrealsense2`
   - `setuptools`
